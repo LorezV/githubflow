@@ -217,7 +217,8 @@
     <MESSAGE value="Revert &quot;add user&quot;&#10;&#10;This reverts commit 81a02470" />
     <MESSAGE value="1" />
     <MESSAGE value="Добавил Dima.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил Dima.txt" />
+    <MESSAGE value="Revert &quot;Clean develop&quot;&#10;&#10;This reverts commit 558e492c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Clean develop&quot;&#10;&#10;This reverts commit 558e492c" />
   </component>
   <component name="WindowStateProjectService">
     <state x="728" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614182336005">
