@@ -24,13 +24,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f52acb3-1c1e-42d0-888a-a7b4396823a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dima.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DimaSchool.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +41,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/listViktor" />
+        <entry key="$PROJECT_DIR$" value="feature/listDima" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1ovu0i0Jjj272AJOl2lDMeY7Di6" />
   <component name="ProjectLevelVcsManager">
@@ -173,7 +173,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614183509982</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Добавил Dima.txt">
+      <created>1614183566666</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614183566666</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Добавил Dima.txt">
+      <created>1614183696655</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614183696655</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Добавил Dima.txt">
+      <created>1614183701218</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614183701218</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +208,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -203,21 +224,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Revert &quot;add user&quot;&#10;&#10;This reverts commit 81a02470" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Добавил Dima.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил Dima.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="728" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614182336005">
+    <state x="728" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614183751892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="728" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614182336005" />
+    <state x="728" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614183751892" />
     <state x="615" y="85" key="CommitChangelistDialog2" timestamp="1614183004892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="615" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614183004892" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614183513264">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614183704907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614183513264" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614183704907" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614182205748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
